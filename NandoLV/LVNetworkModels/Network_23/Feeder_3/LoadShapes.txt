@@ -1,0 +1,2 @@
+New Loadshape.Shape_1 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_2 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false

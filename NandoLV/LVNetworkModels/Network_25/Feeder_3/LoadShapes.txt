@@ -1,0 +1,13 @@
+New Loadshape.Shape_1 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_2 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_3 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_4 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_5 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_6 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_7 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_8 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_9 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_10 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_11 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_12 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
+New Loadshape.Shape_13 npts=288 interval=0.0833 mult=(file=/Users/OMalleyAG/Documents/Python/NandoLV/Summer_Load_CSVs/Customer_1.csv) useactual=false
